@@ -1,7 +1,7 @@
 # 2023_sw_learningghjmnh
 # 2023_PASS_WEB
 ## 개발환경
-* Node.js v18.16.1
+* Node.js v20.9.0
 ---
 ## 실행방법
 ```
