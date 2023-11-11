@@ -3,11 +3,11 @@ const app = express();
 
 
 app.get('/main', function(req, res) {
-	res.send('main 페이지입니다.');
+	res.send('main 페이지입니까?');
 });
 
 app.get('/test', function(req, res) {
-	res.send('test 페이지입니다.');
+	res.send('test 페이지입니까?');
 });
 
 const PORT = 8080;
