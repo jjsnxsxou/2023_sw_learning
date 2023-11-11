@@ -1,0 +1,11 @@
+{
+  "name": "web2",
+  "version": "1.0.0",
+  "description": "* Node.js v20.9.0\r ---\r ## 실행방법\r ```\r npm install -g nodemon\r npm run dev\r ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
