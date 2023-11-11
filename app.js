@@ -12,5 +12,7 @@ app.get('/test', function(req, res) {
 
 const PORT = 8080;
 app.listen(PORT, function() {
+    console.log('Server Init');
     console.log('Listening on port: ', PORT);
+    
 });
